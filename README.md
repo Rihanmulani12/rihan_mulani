@@ -30,5 +30,5 @@ The “Regenerate” button is non-functional at this stage.
 for run this code : npm run dev 
 
 
-## adding(onprocess) extra feture just for my curiosty :
-attech cloudworkrs ai to autumatic generated text 
+## added extra feture just for my curiosty :
+attech cloudworkrs ai to automatic translation of responses
