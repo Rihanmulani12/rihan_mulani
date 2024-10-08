@@ -2,6 +2,13 @@
 
 ![Demo](./Demo/demo.gif)
 
+## Upadte Version Demo 
+
+![UpdateDemo](./UpdateDemo/)
+
+Cloudflare AI Workers Integration for Language Translation
+We have integrated Cloudflare AI Workers to enable automatic translation of responses into various languages. This feature allows users to receive generated text in their preferred language, improving accessibility and communication across different regions.
+
 
 ## LinkedIn Message Assistant
 This Chrome extension integrates an AI assistant into LinkedIn's message input field to help generate message content quickly and efficiently.
