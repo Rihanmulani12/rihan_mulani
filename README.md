@@ -3,11 +3,10 @@
 ![Demo](./Demo/demo.gif)
 
 ## Upadte Version Demo 
-
-![UpdateDemo](./UpdateDemo/)
+![UpdateDemo](./UpdateDemo/UpadteDemo.gif)
 
 Cloudflare AI Workers Integration for Language Translation
-We have integrated Cloudflare AI Workers to enable automatic translation of responses into various languages. This feature allows users to receive generated text in their preferred language, improving accessibility and communication across different regions.
+I have integrated Cloudflare AI Workers to enable automatic translation of responses into various languages.
 
 
 ## LinkedIn Message Assistant
